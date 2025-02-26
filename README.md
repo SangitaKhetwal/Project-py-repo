@@ -1,5 +1,4 @@
-Personalized Medical Recommendation System with Machine Learning
-
+Personalized Medical Recommendation System 
 Welcome to my innovative Personalized Medical Recommendation System, a robust platform aimed at helping users comprehend and manage their health effectively. Utilizing the power of machine learning, our system evaluates user-reported symptoms to accurately predict potential illnesses. Here’s what makes our system unique:
 
 User -Friendly Interface: Our easy-to-navigate interface allows users to input their symptoms with ease, ensuring a smooth experience.
